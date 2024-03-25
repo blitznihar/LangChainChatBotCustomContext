@@ -1,8 +1,8 @@
 # LangChain ChatBot Custom Context
-#### _Step to run the project_
 
 ##### Simple Fact document is being loaded using langchain text loader and embedded and stored in the vector database (used chroma for ease of testing) and based on the query it retrieves the relevant text from the vector database
 
+#### _Step to run the project_
 
 Add Environment file. Create a .env file and add below configurations
 ```sh
